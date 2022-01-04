@@ -3,6 +3,7 @@
 
 
 - 💻 Programdor Front-end.
+- ⚙️ Engenheiro Civil.
 - 💡 Estudando Html, CSS e JS.
 
 <div align="center">
