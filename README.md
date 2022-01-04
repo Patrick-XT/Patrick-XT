@@ -25,7 +25,7 @@
   <a href="https://www.linkedin.com/in/patrick-brasil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "facebook.com/patrick.brasil.52"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
     
- 
+ ![Snake animation](https://github.com/Patrick-XT/Patrick-XT/blob/output/github-contribution-grid-snake.svg)
    
  </div>
   
