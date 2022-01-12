@@ -2,7 +2,7 @@
 
 ##
 
-- 💻 Programdor Front-end.
+- 💻 Desenvolvedor Front-end.
 - ⚙️ Engenheiro Civil.
 - 💡 Estudando HTML, CSS e JS.
 
