@@ -4,7 +4,7 @@
 
 - 💻 Desenvolvedor Front-end.
 - ⚙️ Engenheiro Civil.
-- 💡 Estudando HTML, CSS e JS.
+- 💡 Estudando JavaScript.
 
 <div align="center">
   <a href="https://github.com/Patrick-XT">
