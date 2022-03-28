@@ -4,7 +4,7 @@
 
 - 💻 Desenvolvedor Front-end.
 - ⚙️ Engenheiro Civil.
-- 💡 Estudando JavaScript e React.
+- 💡 Atualmente Estudando React.
 
 <div align="center">
   <a href="https://github.com/Patrick-XT">
